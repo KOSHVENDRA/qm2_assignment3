@@ -1,0 +1,20 @@
+The energy eigenvalue are (in units of h bar=1):
+ for ground state : 0.028762424331578454
+ for 49th excited state : 2.171959561091083
+ for 199th excited state : 17.431341038711558
+
+The degenracy (upto the machine precision) is shown right from the 75th state
+
+I have also plotted the scatter plot which helps visualising the double degeneracy of energy eigenstates after some states
+
+problem 2a : the five energy levels are (mass of the particle = 1)  :      
+
+-2.07936778  ,-0.24731382 ,      0.88128291 ,  0.89911268 ,  1.3819226 
+
+problem 2b : the first five band gaps are :
+1.8252763984434253    ,1.4855934441342828   ,0.33540203934571355
+0.5222095543585565    ,0.28504884774560857
+
+
+ 
+
